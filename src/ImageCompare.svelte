@@ -31,8 +31,8 @@
 		<slot name="after"></slot>
 	</div>
 	<div class="handle" style="left: calc({offset * 100}% - 20px)">
-		<div class="arrow-left"></div>
-		<div class="arrow-right"></div>
+		<div class="arrow-left" tabindex="0"></div>
+		<div class="arrow-right" tabindex="0"></div>
 	</div>
 </div>
 
